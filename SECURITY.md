@@ -1,25 +1,26 @@
-# Security Policy
+# Security
 
-## Supported Versions
+This document outlines our support policy, and how to report vulnerabilities.
 
-Currently supported, maintained and updated versions:
+## Support Policy
 
-| Version | Supported          | Support Status |
-| ------- | ------------------ | -------------- |
-| 4.x     | :white_check_mark: | Active Development & Security Updates |
-| < 4.0   | :x:                | End of Life (no security updates) |
+Below you can find the support status for different versions of Coolify.
 
-## Security Updates
+| Version | Supported | Support Status | Release Date | End of Life Date |
+| ------- | ------------------ | -------------- | ------- | ---------------- |
+| **5.x** | :white_check_mark: | Active Development | TBD | N/A - Current Version |
+| **4.x** | :warning: | Security & Critical Fixes Only | July 14th, 2023 | TBD |
+| **3.x** | :x: | No Longer Supported | July 6th, 2022 | September 5th, 2023 |
 
-We take security seriously. Security updates are released as soon as possible after a vulnerability is discovered and verified.
+:warning: Limited Support
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please follow these steps:
+If you discover a security vulnerability in one of the supported versions, please follow these steps:
 
 1. **DO NOT** disclose the vulnerability publicly.
-2. Send a detailed report to: `security@coollabs.io`.
+2. Send a detailed report to: `hi@coollabs.io`.
 3. Include in your report:
-   - A description of the vulnerability
-   - Steps to reproduce the issue
-   - Potential impact
+   - **Explanation:** Detailed explanation of the vulnerability.
+   - **Reproduction:** Clear steps to reproduce the vulnerability.
+   - **Impact:** Assessment of the potential security impact of the vulnerability.
